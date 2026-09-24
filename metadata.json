@@ -1,0 +1,6 @@
+{
+  "name": "Linterna Police",
+  "description": "Aplicación de linterna con linterna LED trasera, linterna de pantalla al 85% y luces estroboscópicas de patrulla policial en rojo y azul.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
